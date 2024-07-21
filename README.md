@@ -1,6 +1,14 @@
 # red-chamber-llm
 🚧 对中国经典名著《红楼梦》处理，并利用该数据对 ChatGLM3-6B 进行微调，通过它来学习微调等。项目包括文本处理、模型训练和应用开发。This project focuses on processing the Chinese literary classic "Dream of the Red Chamber" and fine-tuning the ChatGLM3-6B model using this data. The goal is to enhance the model's capabilities in understanding and generating text related to the novel. The project encompasses text processing, model training, and application development.
 
+# 微调过程
+之前写了几篇微调的文章，我放到了 CSDN 等平台上：
+
+超级无敌详细，代码+截图！！！
+
+如果帮到你，记得点个关注！！！非常感谢！！！
+https://blog.csdn.net/w776341482/category_12640329.html?spm=1001.2014.3001.5482
+
 
 # 先起草稿 后续整理
 
